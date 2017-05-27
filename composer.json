@@ -7,9 +7,8 @@
             "email": "herysepty6@gmail.com"
         }
     ],
-    "minimum-stability": "stable",
     "require": {
-         "herysepty/libraries": "stable"
+         "php": "^5.6 || ^7.0"
     },
     "autoload": {
         "psr-4": {
