@@ -10,9 +10,10 @@
             "email": "herysepty6@gmail.com"
         }
     ],
+    "minimum-stability": "dev",
     "require": {
-        "php": "^5.6 || ^7.0"
-    },
+        "herysepty/libraries": "dev-master"
+    }
     "autoload": {
         "psr-4": {
             "Herysepty\\Libraries\\": "src"
