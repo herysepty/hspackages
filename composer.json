@@ -13,7 +13,7 @@
     "minimum-stability": "dev",
     "require": {
         "herysepty/libraries": "dev-master"
-    }
+    },
     "autoload": {
         "psr-4": {
             "Herysepty\\Libraries\\": "src"
