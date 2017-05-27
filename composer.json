@@ -1,6 +1,9 @@
 {
     "name": "herysepty/libraries",
     "description": "this is packages from hs",
+    "keywords": ["herysepty",'hs'],
+    "license": "MIT",
+    "homepage": "https://heryseptyadi.com",
     "authors": [
         {
             "name": "Hery Septyadi",
