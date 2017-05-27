@@ -10,7 +10,7 @@
             "email": "herysepty6@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "@dev",
     "require": {},
     "autoload": {
         "psr-4": {
