@@ -8,5 +8,12 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {}
+    "require": {
+         "herysepty/libraries": "dev"
+    },
+    "autoload": {
+        "psr-4": {
+            "Abraham\\TwitterOAuth\\": "src"
+        }
+    }
 }
