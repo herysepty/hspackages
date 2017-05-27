@@ -1,0 +1,12 @@
+{
+    "name": "herysepty/libraries",
+    "description": "this is packages from hs",
+    "authors": [
+        {
+            "name": "Hery Septyadi",
+            "email": "herysepty6@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
